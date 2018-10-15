@@ -4,8 +4,6 @@ Este proyecto se desarrollo para demostrar las habilidades de desarrollo con las
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 Para correr este sistema solo se necesita tener previamente una base de datos con las siguientes caracteristicas:
 
 * DATA BASE: Examen
